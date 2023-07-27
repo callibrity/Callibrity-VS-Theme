@@ -58,7 +58,7 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.6.2166" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Callibrity-color-theme.pkgdef">
+    <Content Include="Callibrity.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -66,9 +66,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="icon\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="icon\" />
     <Folder Include="images\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
