@@ -20,7 +20,7 @@ Check out Callibrity at <https://www.callibrity.com/>
 ## Color me surprised (°.°)
 
 Active, Open Solution
-![Active Solution](./images/Open-Solution-with-Code.png)
+![Active Solution](images/Open-Solution-with-Code.png)
 
 ## Myself
 
